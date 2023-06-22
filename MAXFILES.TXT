@@ -1,0 +1,37 @@
+﻿d:\Users\user\Documents\3ds Max 2023\archives\t$m$p$$$\Final.max
+d:\Users\user\Documents\3ds Max 2023\archives\t$m$p$$$\MAXFILES.TXT
+d:\Users\user\Desktop\APU\SEM 2\IS3D\Materials\Metal_006_basecolor.jpg
+d:\Users\user\Desktop\APU\SEM 2\IS3D\Materials\Metal_006_roughness.jpg
+d:\Users\user\Desktop\APU\SEM 2\IS3D\Materials\Metal_006_metallic.jpg
+d:\Users\user\Desktop\APU\SEM 2\IS3D\Materials\Metal_006_ambientOcclusion.jpg
+d:\Users\user\Desktop\APU\SEM 2\IS3D\Materials\Metal_006_normal.jpg
+d:\Users\user\Desktop\APU\SEM 2\IS3D\Materials\Metal_006_height.png
+d:\Users\user\Desktop\APU\SEM 2\IS3D\Materials\Pistol\Pistol(1)_Wood_BaseColor.png
+d:\Users\user\Desktop\APU\SEM 2\IS3D\Materials\Pistol\Pistol(1)_Wood_Roughness.png
+d:\Users\user\Desktop\APU\SEM 2\IS3D\Materials\Pistol\Pistol(1)_Wood_Metallic.png
+d:\Users\user\Desktop\APU\SEM 2\IS3D\Materials\Pistol\Pistol(1)_Wood_Emissive.png
+d:\Users\user\Desktop\APU\SEM 2\IS3D\Materials\Pistol\Pistol(1)_Wood_Normal.png
+d:\Users\user\Desktop\APU\SEM 2\IS3D\Materials\Pistol\Pistol(1)_Wood_Height.png
+d:\Users\user\Desktop\APU\SEM 2\IS3D\Materials\Dummy\Dummy_01___Default_BaseColor.png
+d:\Users\user\Desktop\APU\SEM 2\IS3D\Materials\Dummy\Dummy_01___Default_Roughness.png
+d:\Users\user\Desktop\APU\SEM 2\IS3D\Materials\Dummy\Dummy_01___Default_Metallic.png
+d:\Users\user\Desktop\APU\SEM 2\IS3D\Materials\Dummy\Dummy_01___Default_Emissive.png
+d:\Users\user\Desktop\APU\SEM 2\IS3D\Materials\Dummy\Dummy_01___Default_Normal.png
+d:\Users\user\Desktop\APU\SEM 2\IS3D\Materials\Dummy\Dummy_01___Default_Height.png
+d:\Users\user\Desktop\APU\SEM 2\IS3D\Materials\Dummy\Dummy_03___Default_BaseColor.png
+d:\Users\user\Desktop\APU\SEM 2\IS3D\Materials\Dummy\Dummy_03___Default_Roughness.png
+d:\Users\user\Desktop\APU\SEM 2\IS3D\Materials\Dummy\Dummy_03___Default_Metallic.png
+d:\Users\user\Desktop\APU\SEM 2\IS3D\Materials\Dummy\Dummy_03___Default_Emissive.png
+d:\Users\user\Desktop\APU\SEM 2\IS3D\Materials\Dummy\Dummy_03___Default_Normal.png
+d:\Users\user\Desktop\APU\SEM 2\IS3D\Materials\Dummy\Dummy_03___Default_Height.png
+d:\Users\user\Desktop\APU\SEM 2\IS3D\Materials\Leather\original-gray-leather-texture-background.jpg
+d:\Users\user\Desktop\APU\SEM 2\IS3D\Materials\Pistol\Pistol(1)_GUN_BaseColor.png
+d:\Users\user\Desktop\APU\SEM 2\IS3D\Materials\Pistol\Pistol(1)_GUN_Roughness.png
+d:\Users\user\Desktop\APU\SEM 2\IS3D\Materials\Pistol\Pistol(1)_GUN_Emissive.png
+d:\Users\user\Desktop\APU\SEM 2\IS3D\Materials\Pistol\Pistol(1)_GUN_Metallic.png
+d:\Users\user\Desktop\New folder\APU\Prt 1\Sem 2\IS3DA\wood_table_001_4k.blend\textures\wood_table_001_diff_4k.jpg
+d:\Users\user\Desktop\New folder\APU\Prt 1\Sem 2\IS3DA\dark-grunge-style-scratched-metal-surface.jpg
+d:\Users\user\Desktop\New folder\APU\Prt 1\Sem 2\IS3DA\gold-textured-background.jpg
+d:\Users\user\Desktop\New folder\APU\Prt 1\Sem 2\IS3DA\old-cement-wall-texture.jpg
+d:\Users\user\Desktop\New folder\APU\Prt 1\Sem 2\IS3DA\cracked_concrete_wall_4k.blend\textures\cracked_concrete_wall_diff_4k.jpg
+d:\Users\user\Desktop\New folder\APU\Prt 1\Sem 2\IS3DA\wood_planks_dirt_4k.blend\textures\wood_planks_dirt_diff_4k.jpg
